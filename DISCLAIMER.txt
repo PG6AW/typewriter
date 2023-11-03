@@ -1,0 +1,7 @@
+All Pictures and Image contents used in this project are flagged or labeled as "Free to use/share/modify" and are all copyright-free.
+
+And the words used in the "words.py" file are all derived from the dictionary and some of them may be potentially regarded as inappropriate in some cultures and age groups, so first, before using this software and the likes of which, always make sure you are above 18 years of age!
+The author and developer of this work is by no means responsible for the use of words in this project! (only the dictionary-derived part within "words.py")
+
+
+Copyright (C) [2023] [Mohammad Dorri] <[https://www.github.com/PG6AW]>

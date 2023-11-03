@@ -1,0 +1,16 @@
++ To use this python software:
+
+	1. Always run from 'login.py'
+	2. Create an account from 'REGISTER' button of 'login.py' if you have no account
+	3. Login through 'login.py' after your account is ready
+	4. You will be redirected to the program right away, once you are logged in!
+	5. Don't forget the click the 'QUIT' or 'EXIT' button in the main program once you're done with your job, to log out from your account aside from just quitting!
+
+
+		+++ Always remember to have installed all the necessary python modules to make this software work as intended and without errors or any further potential complications! +++	
+
+
+
+
+
+				# Copyright (C) [2023] [Mohammad Dorri] <[https://www.github.com/PG6AW]>
