@@ -2,11 +2,18 @@
 Leon's Typewriter is a typing improvement tool, a typing test tool and a typing competition host that helps you further elevate your typing speed &amp; accuracy to the highest altitudes!
 Leon's Typewriter is a project aiming to enhance every individual's typing skills & to help everyone better study their typing accuracy and speed through typing tests!
 
-Make sure to read the README.txt to gain a better understanding of the project that serves as a comprehensive recap/summary/description and includes everythig you need to know about the project!
+Gradually hone your typing skills by working your muscle memory to its daily cap! Your muscle memory will help you involuntarily make the wisest possible and timely decisions once acquired.
+Since having developed an efficient muscle memory is useful in everything you do, from walking or driving a car, to playing a musical instrument or piloting a plane!
+So your muscle memory plays an essential role in all aspects of your life when it comes down to doing pattern-based parts of some activities that are better off not being conscious, therefore most special tasks are handled easier and without potential complications that may disrupt the process if not done in a regular flow.
+
+The Art of Typing too, is of no exception and you definitely need to first master it by continuous practice sessions that would take each individual a varying amount of time per the specific person!
+But the versatile key that non-exceptionally works for everyone in case they make no excuse, is to: 'WHATEVER IT TAKES OR HOW LONG IT TAKES, JUST STICK IN MIND TO NEVER GIVE UP UNDER ANY CIRCUMSTANCE AND KEEP PRACTICING UNTIL THE BITTER END! HAHAHA'.
+
+Moreover, make sure to read the README.txt provided to you as a separate documentation that helps you gain a better understanding of the project that serves as a comprehensive recap/summary/description and includes everything you'll need to know about the project!
 
       __________  ALWAYS RUN FROM 'login.py' IN ORDER TO USE THE PROGRAM AND MAKE SURE YOU HAVE INSTALLED ALL THE NECESSARY MODULES! __________
 
-Additional details are even provided 'built-in' within the program through messagebox.
+Additional details are even provided 'built-in' within the program through messageboxes.
 
 Also make sure to include the GPL-3.0 LICENSE in your modification if you wish to help this project grow by modifying it or contributing to it.
 
