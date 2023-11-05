@@ -1,13 +1,16 @@
 # typewriter
-Leon's Typewriter is a typing improvement tool, a typing test tool and a typing competition host that helps you further elevate your typing speed &amp; accuracy to the highest altitudes!
+Leon's Typewriter is a typing improvement tool, a typing test application and a typing competition hosting software that helps you further elevate your typing speed &amp; accuracy to the highest altitudes!
 Leon's Typewriter is a project aiming to enhance every individual's typing skills & to help everyone better study their typing accuracy and speed through typing tests!
 
 Gradually hone your typing skills by working your muscle memory to its daily cap! Your muscle memory will help you involuntarily make the wisest possible and timely decisions once acquired.
 Since having developed an efficient muscle memory is useful in everything you do, from walking or driving a car, to playing a musical instrument or piloting a plane!
-So your muscle memory plays an essential role in all aspects of your life when it comes down to doing pattern-based parts of some activities that are better off not being conscious, therefore most special tasks are handled easier and without potential complications that may disrupt the process if not done in a regular flow.
+So your muscle memory plays an essential role in all aspects of your life when it comes down to doing pattern-based parts of some activities that are better off not being consciously done, therefore most special tasks are handled easier and without potential issues or complications that may arise during the process if not done in a regular flow (Typing mistakes are only one of such consequences!).
 
-The Art of Typing too, is of no exception and you definitely need to first master it by continuous practice sessions that would take each individual a varying amount of time per the specific person!
-But the versatile key that non-exceptionally works for everyone in case they make no excuse, is to: 'WHATEVER IT TAKES OR HOW LONG IT TAKES, JUST STICK IN MIND TO NEVER GIVE UP UNDER ANY CIRCUMSTANCE AND KEEP PRACTICING UNTIL THE BITTER END! HAHAHA'.
+So the Art of Typing too, is of no exception and you definitely need to first master it by carrying out series of continuous practice sessions or typing tests that would take each individual a varying amount of time per the specific person choosing to follow this method of learning!
+But the versatile key that non-exceptionally works for everyone in case they make no excuse, is to: 'WHATEVER IT TAKES OR HOW LONG IT TAKES, JUST STICK IN MIND TO NEVER GIVE UP UNDER ANY CIRCUMSTANCE AND KEEP PRACTICING UNTIL THE BITTER END! LMAO.'.
+
+To achieve the above purpose, i have provieded users with an opportunity embedded into a so-called embodiment of 'gamification' that is highly capable of amusing them especially through a realtime leaderboard, so that they can better and easier engage and thus have fun while they also take their time improving their skills!
+This implementation has eliminated the boringness from the learning journey and somehow revolutionized it from its former traditional theme!
 
 Moreover, make sure to read the README.txt provided to you as a separate documentation that helps you gain a better understanding of the project that serves as a comprehensive recap/summary/description and includes everything you'll need to know about the project!
 
