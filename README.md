@@ -10,7 +10,7 @@ So the Art of Typing too, is of no exception and you definitely need to first ma
 But the versatile key that non-exceptionally works for everyone in case they make no excuse, is to: 'WHATEVER IT TAKES OR HOW LONG IT TAKES, JUST STICK IN MIND TO NEVER GIVE UP UNDER ANY CIRCUMSTANCE AND KEEP PRACTICING UNTIL THE BITTER END! LMAO.'.
 
 To achieve the above purpose, i have provieded users with an opportunity embedded into a so-called embodiment of 'gamification' that is highly capable of amusing them especially through a realtime leaderboard, so that they can better and easier engage and thus have fun while they also take their time improving their skills!
-This implementation has eliminated the boringness from the learning journey and somehow revolutionized it from its former traditional theme!
+This implementation has whether reduced or eliminated the burden of boringness from the learning journey and somehow revolutionized it from its former traditional theme!
 
 Moreover, make sure to read the README.txt provided to you as a separate documentation that helps you gain a better understanding of the project that serves as a comprehensive recap/summary/description and includes everything you'll need to know about the project!
 
