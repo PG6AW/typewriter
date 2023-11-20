@@ -1,0 +1,3 @@
+Just a code snippet that facilitates covering some cavities and promotes better database management and aids in realtime to refresh the leaderboard, as it still relies on the database to fulfill this task.
+
+Copyright (C) [2023] [Mohammad Dorri] <[https://www.github.com/PG6AW]>

@@ -1,0 +1,3 @@
+Just a tool to set a specific keyboard layout before a test, to best measure, understand and determine the overall quality possible for a user based on a combination of factors as two of which are keyboard layout and overall data tailored to a specific user.
+
+Copyright (C) [2023] [Mohammad Dorri] <[https://www.github.com/PG6AW]>
